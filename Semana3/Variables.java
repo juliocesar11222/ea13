@@ -1,6 +1,6 @@
 package Semana3;
-
-public class Variables {
+class
+public  Variables {
     public static void main(String[] args) {
        int  numero1;
        numero1 = 10;
