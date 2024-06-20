@@ -9,5 +9,8 @@ public class UsoDeChar {
         System.out.println("letra1" + letra1);
         System.out.println("letra3" + letra3);
         System.out.println("todas justas:" + letra1  + letra2 + letra3 + letra4);
+
+        System.out.println(letra1 + letra2);
+        System.out.println(letra1 + "" + letra2);
     }
 }
